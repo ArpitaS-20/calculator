@@ -1,1 +1,1 @@
-# WebDev
+# Basic Web designs using HTML and CSS 
