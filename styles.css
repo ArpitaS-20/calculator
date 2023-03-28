@@ -44,7 +44,7 @@ body{
 }
 input[type="button"]#equal{
     grid-row: span 2;
-    background-color: aquamarine;
+    background-color: rgb(146, 102, 157);
 }
 input[type="button"][value="0"]{
     grid-row: span 2;
